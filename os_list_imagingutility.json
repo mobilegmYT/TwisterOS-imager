@@ -18,7 +18,7 @@
 			    {
                     "name": "TwisterOS (32-bit)",
                     "description": "A port of Raspberry Pi OS with themes and tweaks",
-                    "icon": "https://twisteros.com/images/TwisterOSLogo-Large-New3.png",
+                    "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister-icon.png",
                     "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
                     "extract_size": 1845493760,
                     "extract_sha256": "09ac98ea433e8cb19d09ead1a0bd439cafb1c3e4cb699af04b4e4da1f6ca3f02",
