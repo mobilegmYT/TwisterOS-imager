@@ -17,7 +17,7 @@
             "subitems": [
 			    {
                     "name": "TwisterOS (32-bit) - v1.8.2",
-                    "description": "A fork of rpiOS with skins and tweaks to help introduce noobs to RPI",
+                    "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
                     "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister-icon.png",
                     "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
                     "extract_size": 1845493760,
