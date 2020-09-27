@@ -17,7 +17,7 @@
             "subitems": [
 			    {
                     "name": "TwisterOS (32-bit)",
-                    "description": "A port of Raspberry Pi OS with themes and tweaks",
+                    "description": "Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi.",
                     "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister-icon.png",
                     "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
                     "extract_size": 1845493760,
