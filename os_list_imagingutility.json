@@ -16,12 +16,12 @@
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
             "subitems": [
 			    {
-                    "name": "TwisterOS (32-bit) - v1.8.3",
+                    "name": "TwisterOS (32-bit) - v1.8.2",
                     "description": "A fork of rpiOS with skins and tweaks to help introduce noobs to RPI",
                     "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister-icon.png",
                     "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
                     "extract_size": 1845493760,
-                    "extract_sha256": "09ac98ea433e8cb19d09ead1a0bd439cafb1c3e4cb699af04b4e4da1f6ca3f02",
+                    "extract_sha256": "223782c9b74a93f670167e551785955983250d41941e7bdad0724479f16b5660  ",
                     "image_download_size": 3641200349,
                     "release_date": "2020-09-21"
                 },
