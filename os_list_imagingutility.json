@@ -15,6 +15,15 @@
             "description": "Other Raspberry Pi OS based images",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
             "subitems": [
+			    {
+                    "name": "TwisterOS (32-bit)",
+                    "description": "A port of Raspberry Pi OS with themes and tweaks",
+                    "icon": "https://twisteros.com/images/TwisterOSLogo-Large-New3.png",
+                    "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
+                    #"extract_size": 1845493760,
+                    #"image_download_size": 452715448,
+                    "release_date": "2020-09-21"
+                },
                 {
                     "name": "Raspberry Pi OS Lite (32-bit)",
                     "description": "A port of Debian with no desktop environment",
