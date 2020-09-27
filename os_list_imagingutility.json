@@ -21,7 +21,16 @@
                     "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister-icon.png",
                     "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
                     "extract_size": 1845493760,
-                    "extract_sha256": "223782c9b74a93f670167e551785955983250d41941e7bdad0724479f16b5660  ",
+                    "extract_sha256": "223782c9b74a93f670167e551785955983250d41941e7bdad0724479f16b5660",
+                    "image_download_size": 3641200349,
+                    "release_date": "2020-09-21"
+                },
+			    {
+                    "name": "TwisterOS (64-bit) - v1.8.2",
+                    "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
+                    "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister-icon.png",
+                    "url": "http://download1980.mediafire.com/0d6s18sgqkcg/dbc83jpil9fj54e/TwisterOS-64bit.img.xz",
+                    "extract_size": 1845493760,
                     "image_download_size": 3641200349,
                     "release_date": "2020-09-21"
                 },
