@@ -15,7 +15,7 @@
             "description": "Other Raspberry Pi OS based images",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
             "subitems": [
-			    {
+		{	    
                     "name": "TwisterOS (32-bit)",
                     "description": "A port of Raspberry Pi OS with themes and tweaks",
                     "icon": "https://twisteros.com/images/TwisterOSLogo-Large-New3.png",
