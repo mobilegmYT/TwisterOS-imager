@@ -4,7 +4,7 @@ Fork of RPI Imager with TwisterOS inside. NOTE: The TwisterOS image is only upda
 # Download
 
 ## RPI
-`sudo apt install rpi-imager
+`sudo apt install rpi-imager<br>
 rpi-imager --repo https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/os_list_imagingutility.json`
 
 ## Windows
