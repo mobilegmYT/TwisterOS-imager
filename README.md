@@ -9,8 +9,8 @@ rpi-imager --repo https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/
 
 ## Windows
 1. Download https://downloads.raspberrypi.org/imager/imager_1.4.exe and install. Go to C:\Program Files (x86)\Raspberry Pi Imager in file explorer and right click on rpi-imager.exe and select "Create shortcut". This will make a shortcut on your deskop. 
-2. Right click the shortcut, and select "Properties". Replace the text in the "Target" field with 
+2. Right click the shortcut, and select "Properties". Replace the text in the "Target" field with<br>
 `"C:\Program Files (x86)\Raspberry Pi Imager\rpi-imager.exe" --repo https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/os_list_imagingutility.json`
-You can also replace the icon with https://github.com/mobilegmYT/TwisterOS-imager/blob/master/twister-icon.png if you want. 
+You can also replace the icon with https://github.com/mobilegmYT/TwisterOS-imager/blob/master/title_logo.ico if you want. 
 3. Hit "Apply" and close the window. You can now launch the Imager and start flashing!
 
