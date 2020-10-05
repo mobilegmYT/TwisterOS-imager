@@ -13,19 +13,15 @@
 		{
             "name": "TwisterOS (32-bit) - v1.8.2",
             "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
-            "icon": "hhttps://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/title_logo.ico",
+            "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister.svg",
             "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
-            "extract_size": 1845493760,
-            "image_download_size": 3641200349,
             "release_date": "2020-09-21"
         },
 		{
             "name": "TwisterOS (64-bit)",
             "description": "Kernel only 64-bit mod. See https://bit.ly/2S75w5p for more info",
-            "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/title_logo.ico",
-            "url": "https://archive.org/download/twister-osv-1-8-2.img/TwisterOSv1-8-2.img.xz",
-            "extract_size": 1845493760,
-            "image_download_size": 3641200349,
+            "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister.svg",
+            "url": "http://download1980.mediafire.com/ffvjzcsefrjg/dbc83jpil9fj54e/TwisterOS-64bit.img.xz",
             "release_date": "2020-09-27"
         },
         {
