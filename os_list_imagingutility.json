@@ -1,6 +1,16 @@
 {
     "os_list": [
         {
+            "name": "TwisterOS (32-bit) - v1.9.1",
+            "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
+            "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister_40x40.png",
+            "url": "https://archive.org/download/twister-osv-1-9-1.img/TwisterOSv1-9-1.img.xz",
+	    	"extract_size": 10759762432,
+            "extract_sha256": "96e43352b522d80c5c786e0601a3e15dc1273e3407de52ada0b1ed56c172bfd5",
+            "image_download_size": 3395759496,
+            "release_date": "2020-11-26"
+        },
+		{
             "name": "Raspberry Pi OS (32-bit)",
             "description": "A port of Debian with the Raspberry Pi Desktop (Recommended)",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
@@ -9,16 +19,6 @@
             "extract_sha256": "96e43352b522d80c5c786e0601a3e15dc1273e3407de52ada0b1ed56c172bfd5",
             "image_download_size": 1181855929,
             "release_date": "2020-08-20"
-        },
-		{
-            "name": "TwisterOS (32-bit) - v1.9.1",
-            "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
-            "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister_40x40.png",
-            "url": "https://archive.org/download/twister-osv-1-9-1.img/TwisterOSv1-9-1.img.xz",
-			"extract_size": 10759762432,
-            "extract_sha256": "96e43352b522d80c5c786e0601a3e15dc1273e3407de52ada0b1ed56c172bfd5",
-            "image_download_size": 3395759496,
-            "release_date": "2020-11-26"
         },
         {
             "name": "Raspberry Pi OS (other)",
