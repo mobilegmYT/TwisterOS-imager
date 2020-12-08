@@ -1,23 +1,23 @@
 {
     "os_list": [
         {
-            "name": "TwisterOS (32-bit) - v1.9.1",
+            "name": "TwisterOS (32-bit) - v1.9.2",
             "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
             "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister_40x40.png",
-            "url": "https://archive.org/download/twister-osv-1-9-1.img/TwisterOSv1-9-1.img.xz",
-	    	"extract_size": 10759762432,
+            "url": "https://archive.org/download/twister-osv-1-9-1.img/TwisterOSv1-9-2.img.xz",
+	    "extract_size": 10759762432,
             "image_download_size": 3395759496,
             "release_date": "2020-11-26"
         },
-	{
+        {
             "name": "Raspberry Pi OS (32-bit)",
             "description": "A port of Debian with the Raspberry Pi Desktop (Recommended)",
             "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
-            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2020-08-24/2020-08-20-raspios-buster-armhf.zip",
-            "extract_size": 3821010944,
-            "extract_sha256": "96e43352b522d80c5c786e0601a3e15dc1273e3407de52ada0b1ed56c172bfd5",
-            "image_download_size": 1181855929,
-            "release_date": "2020-08-20"
+            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2020-12-04/2020-12-02-raspios-buster-armhf.zip",
+            "extract_size": 3972005888,
+            "extract_sha256": "96c17bc56af3f9c3863425d26b7b62b328f7a3d3a6150f94cb593924cfa2ec78",
+            "image_download_size": 1233848100,
+            "release_date": "2020-12-02"
         },
         {
             "name": "Raspberry Pi OS (other)",
@@ -28,21 +28,21 @@
                     "name": "Raspberry Pi OS Lite (32-bit)",
                     "description": "A port of Debian with no desktop environment",
                     "icon": "https://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2020-08-24/2020-08-20-raspios-buster-armhf-lite.zip",
-                    "extract_size": 1845493760,
-                    "extract_sha256": "09ac98ea433e8cb19d09ead1a0bd439cafb1c3e4cb699af04b4e4da1f6ca3f02",
-                    "image_download_size": 452715448,
-                    "release_date": "2020-08-20"
+                    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2020-12-04/2020-12-02-raspios-buster-armhf-lite.zip",
+                    "extract_size": 1858076672,
+                    "extract_sha256": "fc71e5f93ed5a4f1e9856f0011f6b18b1c4bbafb95f1637ea95c2a85b5de1eda",
+                    "image_download_size": 459032481,
+                    "release_date": "2020-12-02"
                 },
                 {
                     "name": "Raspberry Pi OS Full (32-bit)",
                     "description": "A port of Debian with desktop and recommended applications",
                     "icon": "https://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
-                    "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2020-08-24/2020-08-20-raspios-buster-armhf-full.zip",
-                    "extract_size": 7352614912,
-                    "extract_sha256": "d6b9ca6043944cb28d34b522039b657de08086d1644d7fa7804cbe90db4a0926",
-                    "image_download_size": 2645200349,
-                    "release_date": "2020-08-20"
+                    "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2020-12-04/2020-12-02-raspios-buster-armhf-full.zip",
+                    "extract_size": 8787066880,
+                    "extract_sha256": "4b4dbce6ebf10671d4e9c2a2279ec9c69f9525f02fee8c52795388ed2088c265",
+                    "image_download_size": 3092088753,
+                    "release_date": "2020-12-02"
                 }
             ]
         },
@@ -54,7 +54,7 @@
         },
         {
             "name": "Ubuntu",
-            "description": "Choose from Ubuntu Core and Server images",
+            "description": "Choose from Ubuntu Desktop, Server, and Core images",
             "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
             "subitems_url": "https://changelogs.ubuntu.com/raspi/os_list_imagingutility_ubuntu.json"
         },
@@ -63,6 +63,18 @@
             "description": "Turn your Raspberry Pi into a retro-gaming machine",
             "icon": "https://retropie.org.uk/retropie-logo-40x40.png",
             "subitems_url": "https://retropie.org.uk/os_list_imagingutility.json"
+        },
+        {
+            "name": "Recalbox",
+            "description": "The retro-gaming OS supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/rpi-imager/recalbox.png",
+            "subitems_url": "https://upgrade.recalbox.com/latest/rpi-imager/os_list_imagingutility_recalbox.json"
+        },
+        {
+            "name": "RISC OS Pi",
+            "description": "A fast and easily customised operating system for ARM devices",
+            "icon": "http://packages.riscosopen.org/rpi_imager/RISC_OS.png",
+            "subitems_url": "http://packages.riscosopen.org/rpi_imager/os_list_imagingutility.json"
         },
         {
             "name": "TLXOS",
