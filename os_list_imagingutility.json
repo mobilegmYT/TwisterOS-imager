@@ -5,8 +5,9 @@
             "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
             "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister_40x40.png",
             "url": "https://archive.org/download/twister-osv-1-9-2.img/TwisterOSv1-9-2.img.xz",
-	        "extract_size": 10759762432,
-            "image_download_size": 3395759496,
+	        "extract_size": 10793570816,
+            "extract_sha256": "AA70E6D5A66785FA33AFDC4469D2DA6E15ADD732F99A3AAE08B47EC1B182DCC6",
+            "image_download_size": 3283406448,
             "release_date": "2020-11-26"
         },
         {
