@@ -13,5 +13,7 @@ sudo mv twisteros-imager.svg /usr/share/icons
 # Download desktop file
 wget https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twisteros-imager.desktop
 chmod +x twisteros-imager.desktop
-sudo rm /usr/share/applications/rpi-imager.desktop
+if [ -f /usr/share/applications/rpi-imager.desktop ]; then
+  sudo rm /usr/share/applications/rpi-imager.desktop
+fi
 sudo mv twisteros-imager.desktop ~/.local/share/applications/
