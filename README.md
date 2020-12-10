@@ -9,3 +9,6 @@ Downloads are a work in progress! Will be up in a few days.
 ## Windows
 
 ## MacOS
+
+## Credits
+All credits go to https://github.com/raspberrypi/rpi-imager. And huge thanks to grayduck and salva for making Twister OS and making the world a greater place!
