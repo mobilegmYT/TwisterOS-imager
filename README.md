@@ -7,7 +7,9 @@ Downloads are a work in progress! Will be up in a few days.
 ## RPI
 ```
 wget https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twistimager_install.sh
-chmod +x 
+chmod +x twistimager_install.sh
+./twistimager_install.sh
+rm twistimager_install.sh
 ```
 
 ## Windows
