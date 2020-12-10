@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install patcher
-sudo apt remove rpi-imager
+sudo apt remove -y rpi-imager
 wget https://github.com/mobilegmYT/TwisterOS-imager/raw/master/TwisterOS_imager_armhf.deb
 sudo apt install -y ./TwisterOS_imager_armhf.deb
 rm TwisterOS_imager_armhf.deb
