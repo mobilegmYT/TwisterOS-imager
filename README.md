@@ -5,6 +5,10 @@ Fork of RPI Imager with TwisterOS added for the website. NOTE: The TwisterOS ima
 
 Downloads are a work in progress! Will be up in a few days.
 ## RPI
+```
+wget https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twistimager_install.sh
+chmod +x 
+```
 
 ## Windows
 
