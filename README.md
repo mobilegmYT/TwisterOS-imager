@@ -1,7 +1,8 @@
 # TwisterOS-imager
 Fork of RPI Imager with TwisterOS added for the website. NOTE: The TwisterOS image is only updated every few releases, so make sure you are up-to-date by running "Twister OS Patcher" after you flash it and boot your pi.
 
-This will be decapitated soon as TwisterOS is being integrated into rpi-imager itself.
+### :warning: WARNING
+This will be decapitated soon as TwisterOS is being integrated into rpi-imager itself. The repo will still up for historical purposes, and it will host the rpi-imager submenu.
 
 # Download
 
