@@ -1,0 +1,16 @@
+{
+    "os_list": [
+        {
+            "name": "TwisterOS (32-bit) - v1.9.2",
+            "description": "RPi OS fork with themes, x86 emulation, and more!",
+            "url": "https://archive.org/download/twister-osv-1-9-2.img/TwisterOSv1-9-2.img.xz",
+            "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister_40x40.png",
+            "extract_size": 3226648576,
+            "extract_sha256": "4690f85da4e61483d30ccab89be202ddd0e4f683f1df4d3a8341512a7ffd0653",
+            "image_download_size": 739445996,
+            "image_download_sha256": "c2ebf228fce84bcf07e8acfa9e4c254c04b07618c1689ad1498ef3e5cdb37778",
+            "release_date": "2020-12-01"
+        },
+
+    ]
+}
