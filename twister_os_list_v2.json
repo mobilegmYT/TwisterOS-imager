@@ -5,14 +5,12 @@
     },
     "os_list": [
 		{
-            "name": "TwisterOS (32-bit) - v1.9.2",
-            "description": "A fork of rpiOS with skins and tweaks to introduce noobs to RPI",
+            "url": "https://archive.org/download/twister-osv-1-9-7.img/TwisterOSv1-9-7.img.xz",
+            "extract_size": 10782200320,
+            "extract_sha256": "145824e6a9c7e7df165f130ea80f6b20a4ac16931343b23310263cbe7628f5b9",
+            "image_download_size": 3235968112,
+            "description": "Raspberry Pi OS with a twist.",
             "icon": "https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/twister_40x40.png",
-            "url": "https://archive.org/download/twister-osv-1-9-2.img/TwisterOSv1-9-2.img.xz",
-            "extract_size": 10793570816,
-            "extract_sha256": "AA70E6D5A66785FA33AFDC4469D2DA6E15ADD732F99A3AAE08B47EC1B182DCC6",
-            "image_download_size": 3283406448,
-            "release_date": "2020-12-01"
         },
 		{
             "name": "Raspberry Pi OS (32-bit)",
